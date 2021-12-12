@@ -1,4 +1,4 @@
-# cards
+# UI Card Designs
 
 A new Flutter application.
 
